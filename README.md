@@ -32,3 +32,4 @@ react + redux + react-redux + react-router + webpack + ES6
 
 ## TODO
 修改代码中的bug
+# react
